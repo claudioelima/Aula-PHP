@@ -1,6 +1,6 @@
-\#Apresentação: Introdução ao PHP com MySQL
+# Apresentação: Introdução ao PHP com MySQL
 
-\## Índice
+## Índice
 
 1. Introdução ao PHP
 1. Integração do PHP com MySQL
@@ -13,7 +13,7 @@
 
 \---
 
-\## 1. Introdução ao PHP
+## 1. Introdução ao PHP
 
 O PHP (Hypertext Preprocessor) é uma linguagem de programação amplamente utilizada para o desenvolvimento de aplicações web dinâmicas. É especialmente conhecida pela sua integração fácil com HTML e bancos de dados, como o MySQL.
 
@@ -21,7 +21,7 @@ PHP oferece recursos poderosos para manipulação de strings, arrays, expressõe
 
 \---
 
-\## 2. Integração do PHP com MySQL
+## 2. Integração do PHP com MySQL
 
 O MySQL é um sistema de gerenciamento de banco de dados relacional amplamente utilizado, conhecido pela sua confiabilidade e desempenho. O PHP oferece suporte nativo para conexão e manipulação de dados em bancos de dados MySQL.
 
@@ -29,9 +29,9 @@ Por meio de funções específicas, é possível estabelecer conexões com banco
 
 \---
 
-\## 3. Exemplos de utilização
+## 3. Exemplos de utilização
 
-\### Exemplo 1: Conexão com MySQL
+### Exemplo 1: Conexão com MySQL
 
 \```php
 
@@ -61,7 +61,7 @@ echo "Conexão bem-sucedida";
 
 \```
 
-\### Exemplo 2: Execução de Consulta
+### Exemplo 2: Execução de Consulta
 
 \```php
 
@@ -93,7 +93,7 @@ echo "0 resultados";
 
 \---
 
-\## 4. Melhores práticas e dicas
+## 4. Melhores práticas e dicas
 
 - Utilize declarações preparadas para prevenir injeções de SQL.
 - Feche sempre as conexões com o banco de dados após utilizá-las.
@@ -101,13 +101,13 @@ echo "0 resultados";
 
 \---
 
-\## 5. Conclusão
+## 5. Conclusão
 
 Nesta apresentação, exploramos a integração do PHP com o MySQL, demonstrando exemplos de conexão, consulta e manipulação de dados. Com o PHP, é possível criar aplicações web poderosas e dinâmicas, aproveitando a robustez do MySQL como banco de dados.
 
 \---
 
-\## 6. Perguntas sobre a apresentação
+## 6. Perguntas sobre a apresentação
 
 1. Qual é a principal vantagem do PHP em relação a outras linguagens de programação para desenvolvimento web?
 1. Quais são as melhores práticas ao trabalhar com conexões de banco de dados em PHP?
@@ -117,7 +117,7 @@ Nesta apresentação, exploramos a integração do PHP com o MySQL, demonstrando
 
 \---
 
-\## 7. Pontos-chave da apresentação
+## 7. Pontos-chave da apresentação
 
 - PHP é uma linguagem popular para desenvolvimento web.
 - MySQL é um sistema de gerenciamento de banco de dados amplamente utilizado.
@@ -126,7 +126,7 @@ Nesta apresentação, exploramos a integração do PHP com o MySQL, demonstrando
 
 \---
 
-\## 8. Bibliografia
+## 8. Bibliografia
 
 1. Silva, João. PHP para iniciantes. Editora XYZ, 2020.
 1. Santos, Maria. MySQL: Guia prático para iniciantes. Editora ABC, 2019.
