@@ -33,33 +33,21 @@ Por meio de funções específicas, é possível estabelecer conexões com banco
 
 ### Exemplo 1: Conexão com MySQL
 
-\```php
-
 <?php
-
 $servername = "localhost";
-
 $username = "username";
-
 $password = "password";
 
 // Cria conexão
-
 $conn = new mysqli($servername, $username, $password);
 
 // Verifica conexão
-
-if ($conn->connect\_error) {
-
-die("Conexão falhou: " . $conn->connect\_error);
-
+if ($conn->connect_error) {
+  die("Conexão falhou: " . $conn->connect_error);
 }
-
 echo "Conexão bem-sucedida";
-
 ?>
 
-\```
 
 ### Exemplo 2: Execução de Consulta
 
