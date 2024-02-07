@@ -33,7 +33,7 @@ Por meio de funções específicas, é possível estabelecer conexões com banco
 
 ### Exemplo 1: Conexão com MySQL
 
-<img src="[https://exemplo.com/logo.png](https://imgur.com/YcIRBJD)" alt="Logo da Minha Empresa">
+![Logo da Minha Empresa](https://exemplo.com/logo.png)
 <?php
 $servername = "localhost";
 $username = "username";
