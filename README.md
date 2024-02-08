@@ -30,7 +30,7 @@ Por meio de funções específicas, é possível estabelecer conexões com banco
 ![Logo da Minha Empresa](https://github.com/claudioelima/Aula-PHP/blob/main/FIG01.png)
 
 ### Exemplo 2: Execução de Consulta
-
+![Logo da Minha Empresa](https://github.com/claudioelima/Aula-PHP/blob/main/FIG02.png)
 
 ## 4. Melhores práticas e dicas
 
