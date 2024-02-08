@@ -11,23 +11,17 @@
 1. Pontos-chave da apresentação
 1. Bibliografia
 
-\---
-
 ## 1. Introdução ao PHP
 
 O PHP (Hypertext Preprocessor) é uma linguagem de programação amplamente utilizada para o desenvolvimento de aplicações web dinâmicas. É especialmente conhecida pela sua integração fácil com HTML e bancos de dados, como o MySQL.
 
 PHP oferece recursos poderosos para manipulação de strings, arrays, expressões regulares, e muito mais. Além disso, é uma linguagem de código aberto e possui uma vasta comunidade de desenvolvedores.
 
-\---
-
 ## 2. Integração do PHP com MySQL
 
 O MySQL é um sistema de gerenciamento de banco de dados relacional amplamente utilizado, conhecido pela sua confiabilidade e desempenho. O PHP oferece suporte nativo para conexão e manipulação de dados em bancos de dados MySQL.
 
 Por meio de funções específicas, é possível estabelecer conexões com bancos de dados MySQL, executar consultas SQL e manipular resultados diretamente no código PHP.
-
-\---
 
 ## 3. Exemplos de utilização
 
@@ -73,13 +67,9 @@ echo "0 resultados";
 - Feche sempre as conexões com o banco de dados após utilizá-las.
 - Valide e sanitize os dados antes de inseri-los no banco de dados para evitar vulnerabilidades.
 
-\---
-
 ## 5. Conclusão
 
 Nesta apresentação, exploramos a integração do PHP com o MySQL, demonstrando exemplos de conexão, consulta e manipulação de dados. Com o PHP, é possível criar aplicações web poderosas e dinâmicas, aproveitando a robustez do MySQL como banco de dados.
-
-\---
 
 ## 6. Perguntas sobre a apresentação
 
@@ -89,16 +79,12 @@ Nesta apresentação, exploramos a integração do PHP com o MySQL, demonstrando
 1. Quais são os passos necessários para executar uma consulta SQL em PHP?
 1. Por que é importante fechar as conexões com o banco de dados após utilizá-las?
 
-\---
-
 ## 7. Pontos-chave da apresentação
 
 - PHP é uma linguagem popular para desenvolvimento web.
 - MySQL é um sistema de gerenciamento de banco de dados amplamente utilizado.
 - A integração entre PHP e MySQL permite criar aplicações web dinâmicas e poderosas.
 - É importante seguir as melhores práticas de segurança ao trabalhar com PHP e MySQL.
-
-\---
 
 ## 8. Bibliografia
 
@@ -108,4 +94,3 @@ Nesta apresentação, exploramos a integração do PHP com o MySQL, demonstrando
 
 (Associação Brasileira de Normas Técnicas. NBR 6023: Informação e documentação - Referências - Elaboração. Rio de Janeiro, 2002.)
 
-\---
