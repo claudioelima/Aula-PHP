@@ -62,6 +62,8 @@ Nesta apresentação, exploramos a integração do PHP com o MySQL, demonstrando
 1. Silva, João. PHP para iniciantes. Editora XYZ, 2020.
 1. Santos, Maria. MySQL: Guia prático para iniciantes. Editora ABC, 2019.
 1. Souza, Pedro. Desenvolvimento web com PHP e MySQL. Editora DEF, 2018.
-
 (Associação Brasileira de Normas Técnicas. NBR 6023: Informação e documentação - Referências - Elaboração. Rio de Janeiro, 2002.)
+
+### Atividade Prática: Desenvolvimento de uma Aplicação PHP com MySQL
+
 
