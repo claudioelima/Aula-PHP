@@ -31,35 +31,6 @@ Por meio de funções específicas, é possível estabelecer conexões com banco
 
 ### Exemplo 2: Execução de Consulta
 
-\```php
-
-<?php
-
-$sql = "SELECT \* FROM tabela";
-
-$result = $conn->query($sql);
-
-if ($result->num\_rows > 0) {
-
-// Saída dos dados de cada linha
-
-while($row = $result->fetch\_assoc()) {
-
-echo "Campo1: " . $row["campo1"]. " - Campo2: " . $row["campo2"]. "<br>";
-
-}
-
-} else {
-
-echo "0 resultados";
-
-}
-
-?>
-
-\```
-
-\---
 
 ## 4. Melhores práticas e dicas
 
